@@ -1,2 +1,2 @@
 # cloudsolution
-Hugo static Website
+The Repository has a static Website.
